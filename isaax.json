@@ -1,0 +1,12 @@
+{
+  "name": "ruby-app",
+  "version": "",
+  "description": "My Ruby app",
+  "main": "app.rb",
+  "author": "",
+  "license": "",
+  "scripts": {
+     "start": "./app.rb"
+    },
+   "dependency": null
+}
